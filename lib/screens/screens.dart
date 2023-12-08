@@ -1,2 +1,4 @@
-export 'package:movies_app/screens/Details_Screen.dart';
-export 'package:movies_app/screens/Home_Scren.dart';
+
+export 'package:peliculas/screens/details_screen.dart';
+export 'package:peliculas/screens/home_screen.dart';
+

@@ -17,14 +17,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
-  card_swiper:
-    dependency: "direct main"
-    description:
-      name: card_swiper
-      sha256: "0c94c538f47be1dab52d018d4900a7046b4cb0700dc7f95b8628da89d1212b35"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.4"
   characters:
     dependency: transitive
     description:
@@ -70,14 +62,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_lints:
-    dependency: "direct dev"
+  flutter_card_swipper:
+    dependency: "direct main"
     description:
-      name: flutter_lints
-      sha256: a25a15ebbdfc33ab1cd26c63a6ee519df92338a9c10f122adda92938253bef04
+      name: flutter_card_swipper
+      sha256: "130518bf0580835ac23b697c9ae97a56ec30aa53b385a77b447eb59542996b67"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "0.4.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -99,14 +91,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
-  lints:
-    dependency: transitive
-    description:
-      name: lints
-      sha256: "0a217c6c989d21039f1498c3ed9f3ed71b354e69873f13a8dfc3c9fe76f1b452"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   matcher:
     dependency: transitive
     description:
@@ -151,10 +135,10 @@ packages:
     dependency: "direct main"
     description:
       name: provider
-      sha256: "9a96a0a19b594dbc5bf0f1f27d2bc67d5f95957359b461cd9feb44ed6ae75096"
+      sha256: "59471e0a4595e264625d3496af567ac85bdae1148ec985aff1e0555786f53ecf"
       url: "https://pub.dev"
     source: hosted
-    version: "6.1.1"
+    version: "5.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
